@@ -1,0 +1,38 @@
+.java{
+    background-color:white;
+    width: 100%;
+    
+}
+
+#java1 {
+    color: blue;
+    width: 100%;
+    
+}
+.java h1{
+    font-weight: bold;
+}
+.corejava{
+    color: blue;
+    
+}
+.corejava li{
+    color: black;
+    font-weight: bold;
+}
+.jdbc{
+    color: blue;
+    
+}
+.jdbc li{
+    color: black;
+    font-weight: bold;
+}
+.jsp{
+    color: blue;
+    
+}
+.jsp li{
+    color: black;
+    font-weight: bold;
+}

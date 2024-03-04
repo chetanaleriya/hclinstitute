@@ -1,0 +1,30 @@
+.python{
+    background-color:white;
+    width: 100%;
+    
+}
+
+#python1 {
+    color: blue;
+    width: 100%;
+    
+}
+.python h1{
+    font-weight: bold;
+}
+.python2{
+    color: blue;
+    
+}
+.python2 li{
+    color: black;
+    font-weight: bold;
+}
+.django{
+    color: blue;
+    
+}
+.django li{
+    color: black;
+    font-weight: bold;
+}

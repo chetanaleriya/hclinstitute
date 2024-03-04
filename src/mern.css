@@ -1,0 +1,63 @@
+.mern{
+    background-color: white;
+    width: 100%;
+    
+}
+#mern1 {
+    font-weight: bold;
+    color: blue;
+    width: 100%;
+    
+}
+.mern h1{
+    font-weight: bold;
+}
+.html{
+    color: blue;
+}
+.html li{
+    color:  black;
+    font-weight: bold;
+}
+.css{
+    color: blue;
+}
+.css li{
+    color:  black;
+    font-weight: bold;
+}
+.js{
+    color: blue;
+}
+.js li{
+    color: black;
+    font-weight: bold;
+}
+.jquery{
+    color:  blue;
+}
+.jquery li{
+    color:  black;
+    font-weight: bold;
+}
+.bootstrap{
+    color: blue;
+}
+.bootstrap li{
+    color:black;
+    font-weight: bold;
+}
+.react{
+    color: blue;
+}
+.react li{
+    color:  black;
+    font-weight: bold;
+}
+.node{
+    color: blue;
+}
+.node li{
+    color:  black;
+    font-weight: bold;
+}

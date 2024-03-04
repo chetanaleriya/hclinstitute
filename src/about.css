@@ -1,0 +1,16 @@
+.about{
+    display: flex;
+    width: 100%;
+
+}
+.about2{
+    width: 60%;
+}
+.about2 p{
+font-weight: bold;
+color: steelblue;
+}
+.about3 h1{
+    font-weight: bold;
+    text-align: center;
+}

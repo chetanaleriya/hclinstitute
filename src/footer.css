@@ -1,0 +1,20 @@
+
+.footer{
+    background-color: black;
+    padding: 40px;
+    font-family:'Times New Roman', Times, serif;
+    width: 100%;
+}
+.footer li{
+    list-style:none;
+    
+}
+.footer h1 {
+    margin-left: 400px;
+    color: red;
+
+}
+.footer p{
+    margin-left: 520px;
+    color: aqua;
+}
